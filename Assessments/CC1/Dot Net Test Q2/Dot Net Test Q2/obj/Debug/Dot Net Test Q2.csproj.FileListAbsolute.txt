@@ -1,0 +1,6 @@
+C:\Users\raghavg\source\repos\Dot Net Test Q2\Dot Net Test Q2\obj\Debug\Dot Net Test Q2.csproj.CoreCompileInputs.cache
+C:\Users\raghavg\source\repos\Dot Net Test Q2\Dot Net Test Q2\bin\Debug\Dot Net Test Q2.exe.config
+C:\Users\raghavg\source\repos\Dot Net Test Q2\Dot Net Test Q2\bin\Debug\Dot Net Test Q2.exe
+C:\Users\raghavg\source\repos\Dot Net Test Q2\Dot Net Test Q2\bin\Debug\Dot Net Test Q2.pdb
+C:\Users\raghavg\source\repos\Dot Net Test Q2\Dot Net Test Q2\obj\Debug\Dot Net Test Q2.exe
+C:\Users\raghavg\source\repos\Dot Net Test Q2\Dot Net Test Q2\obj\Debug\Dot Net Test Q2.pdb

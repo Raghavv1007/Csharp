@@ -1,0 +1,7 @@
+C:\Users\raghavg\source\repos\ASSESMENT 2 SOLUTION\ASSESMENT 2 SOLUTION\bin\Debug\ASSESMENT 2 SOLUTION.exe.config
+C:\Users\raghavg\source\repos\ASSESMENT 2 SOLUTION\ASSESMENT 2 SOLUTION\bin\Debug\ASSESMENT 2 SOLUTION.exe
+C:\Users\raghavg\source\repos\ASSESMENT 2 SOLUTION\ASSESMENT 2 SOLUTION\bin\Debug\ASSESMENT 2 SOLUTION.pdb
+C:\Users\raghavg\source\repos\ASSESMENT 2 SOLUTION\ASSESMENT 2 SOLUTION\obj\Debug\ASSESMENT 2 SOLUTION.csproj.AssemblyReference.cache
+C:\Users\raghavg\source\repos\ASSESMENT 2 SOLUTION\ASSESMENT 2 SOLUTION\obj\Debug\ASSESMENT 2 SOLUTION.csproj.CoreCompileInputs.cache
+C:\Users\raghavg\source\repos\ASSESMENT 2 SOLUTION\ASSESMENT 2 SOLUTION\obj\Debug\ASSESMENT 2 SOLUTION.exe
+C:\Users\raghavg\source\repos\ASSESMENT 2 SOLUTION\ASSESMENT 2 SOLUTION\obj\Debug\ASSESMENT 2 SOLUTION.pdb

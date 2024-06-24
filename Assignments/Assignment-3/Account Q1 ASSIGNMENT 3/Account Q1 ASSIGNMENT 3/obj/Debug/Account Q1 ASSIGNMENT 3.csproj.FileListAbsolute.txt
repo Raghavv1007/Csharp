@@ -1,0 +1,7 @@
+D:\DotNet Training\Assignments\Assignment-3\Account Q1 ASSIGNMENT 3\Account Q1 ASSIGNMENT 3\obj\Debug\Account Q1 ASSIGNMENT 3.csproj.AssemblyReference.cache
+D:\DotNet Training\Assignments\Assignment-3\Account Q1 ASSIGNMENT 3\Account Q1 ASSIGNMENT 3\obj\Debug\Account Q1 ASSIGNMENT 3.csproj.CoreCompileInputs.cache
+D:\DotNet Training\Assignments\Assignment-3\Account Q1 ASSIGNMENT 3\Account Q1 ASSIGNMENT 3\bin\Debug\Account Q1 ASSIGNMENT 3.exe.config
+D:\DotNet Training\Assignments\Assignment-3\Account Q1 ASSIGNMENT 3\Account Q1 ASSIGNMENT 3\bin\Debug\Account Q1 ASSIGNMENT 3.exe
+D:\DotNet Training\Assignments\Assignment-3\Account Q1 ASSIGNMENT 3\Account Q1 ASSIGNMENT 3\bin\Debug\Account Q1 ASSIGNMENT 3.pdb
+D:\DotNet Training\Assignments\Assignment-3\Account Q1 ASSIGNMENT 3\Account Q1 ASSIGNMENT 3\obj\Debug\Account Q1 ASSIGNMENT 3.exe
+D:\DotNet Training\Assignments\Assignment-3\Account Q1 ASSIGNMENT 3\Account Q1 ASSIGNMENT 3\obj\Debug\Account Q1 ASSIGNMENT 3.pdb

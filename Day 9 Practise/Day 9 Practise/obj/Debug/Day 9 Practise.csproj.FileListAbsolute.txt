@@ -1,0 +1,7 @@
+D:\DotNet Training\Day 9 Practise\Day 9 Practise\bin\Debug\Day 9 Practise.exe.config
+D:\DotNet Training\Day 9 Practise\Day 9 Practise\bin\Debug\Day 9 Practise.exe
+D:\DotNet Training\Day 9 Practise\Day 9 Practise\bin\Debug\Day 9 Practise.pdb
+D:\DotNet Training\Day 9 Practise\Day 9 Practise\obj\Debug\Day 9 Practise.csproj.AssemblyReference.cache
+D:\DotNet Training\Day 9 Practise\Day 9 Practise\obj\Debug\Day 9 Practise.csproj.CoreCompileInputs.cache
+D:\DotNet Training\Day 9 Practise\Day 9 Practise\obj\Debug\Day 9 Practise.exe
+D:\DotNet Training\Day 9 Practise\Day 9 Practise\obj\Debug\Day 9 Practise.pdb

@@ -1,0 +1,7 @@
+D:\DotNet Training\Assignments\Unit\Unit\bin\Debug\Unit.exe.config
+D:\DotNet Training\Assignments\Unit\Unit\bin\Debug\Unit.exe
+D:\DotNet Training\Assignments\Unit\Unit\bin\Debug\Unit.pdb
+D:\DotNet Training\Assignments\Unit\Unit\obj\Debug\Unit.csproj.AssemblyReference.cache
+D:\DotNet Training\Assignments\Unit\Unit\obj\Debug\Unit.csproj.CoreCompileInputs.cache
+D:\DotNet Training\Assignments\Unit\Unit\obj\Debug\Unit.exe
+D:\DotNet Training\Assignments\Unit\Unit\obj\Debug\Unit.pdb

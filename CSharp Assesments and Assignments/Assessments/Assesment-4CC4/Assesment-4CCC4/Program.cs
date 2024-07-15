@@ -15,7 +15,7 @@ namespace Assesment_4CCC4
             string appendedText = "Raghav Garg.";
 
             // Append text to the file
-            using (StreamWriter writer = new StreamWriter(filePath, true))
+            using (StreamWriter writer = new StreamWriter)
             {
                 writer.WriteLine(appendedText);
             }

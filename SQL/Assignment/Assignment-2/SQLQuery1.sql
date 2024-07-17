@@ -101,3 +101,14 @@ SELECT DEPTNO, COUNT(*) AS "Number of Employees"
 FROM EMP
 GROUP BY DEPTNO
 HAVING COUNT(*) > 3;
+
+-- Challenge 3: Display all employees information who joined before 5 years in the current month
+SELECT *
+FROM EMP
+WHERE YEAR(HIREDATE) <= YEAR(GETDATE()) - 5
+AND MONTH(HIREDATE) = MONTH(GETDATE());
+
+SELECT *
+FROM EMP
+WHERE YEAR(HIREDATE) <= 1985
+AND MONTH(HIREDATE) = 12;

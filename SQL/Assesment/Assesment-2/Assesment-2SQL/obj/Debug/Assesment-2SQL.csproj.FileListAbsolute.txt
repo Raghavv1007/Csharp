@@ -1,0 +1,7 @@
+C:\Users\raghavg\source\repos\Assesment-2SQL\Assesment-2SQL\bin\Debug\Assesment-2SQL.exe.config
+C:\Users\raghavg\source\repos\Assesment-2SQL\Assesment-2SQL\bin\Debug\Assesment-2SQL.exe
+C:\Users\raghavg\source\repos\Assesment-2SQL\Assesment-2SQL\bin\Debug\Assesment-2SQL.pdb
+C:\Users\raghavg\source\repos\Assesment-2SQL\Assesment-2SQL\obj\Debug\Assesment-2SQL.csproj.AssemblyReference.cache
+C:\Users\raghavg\source\repos\Assesment-2SQL\Assesment-2SQL\obj\Debug\Assesment-2SQL.csproj.CoreCompileInputs.cache
+C:\Users\raghavg\source\repos\Assesment-2SQL\Assesment-2SQL\obj\Debug\Assesment-2SQL.exe
+C:\Users\raghavg\source\repos\Assesment-2SQL\Assesment-2SQL\obj\Debug\Assesment-2SQL.pdb
